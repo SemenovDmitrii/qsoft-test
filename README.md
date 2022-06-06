@@ -12,4 +12,4 @@
 Верстка должна корректно отображаться на разрешениях от 1440px до 375px.
 Задание нужно выполнить в какой-либо онлайн-платформе для хранения кода (например, CodePen или CodeSandbox).
 
-GH PAGES - 
+GH PAGES - https://semenovdmitrii.github.io/qsoft-test/
